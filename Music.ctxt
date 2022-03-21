@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Music
+comment1.params=song
+comment1.target=Music(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
